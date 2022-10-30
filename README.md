@@ -1,18 +1,19 @@
 ### Hi there 👋
 
- I'm Sulekha Mohamud  and have experienced working with data. 
+ I'm Sulekha Mohamud  and I have experienced working with data. 
 🧑‍💻 When I'm not at work  managing projects, you can often find me coding, learning new stuff, and polishing my skills on  various areas including 
 
 
 ✳️ Machine Learning 
-✳️ Data Science and  
+✳️ Data Science  
 ✳️ Data Visualization projects.  
 
 I also love working with different technologies &amp; platforms and my current favorite ones are  
 ❤️ SQL / PostgreSQL / MySQL 
 
 ❤️ Python 
-❤️ Tableau 
+
+❤️  Tableaua
 ❤️ Power Bi
 ❤️ R
 
