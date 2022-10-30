@@ -10,6 +10,7 @@
 
 I also love working with different technologies &amp; platforms and my current favorite ones are  
 ❤️ SQL / PostgreSQL / MySQL 
+
 ❤️ Python 
 ❤️ Tableau 
 ❤️ Power Bi
