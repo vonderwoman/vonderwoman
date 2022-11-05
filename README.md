@@ -23,5 +23,5 @@ I also love working with different technologies &amp; platforms and my current f
 - 🌱 I’m currently learning R 
 - 👯 I’m looking to collaborate on any data science or data analysis projects
 
-- ⚡ Fun fact: I love surfing through the internet to stay updated with the latest technologies
+- ⚡ Fun fact: I love surfing through the internet to stay updated with the latest technologies.
 
