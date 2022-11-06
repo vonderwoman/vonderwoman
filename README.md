@@ -8,7 +8,7 @@
 ✳️ Data Science  
 ✳️ Data Visualization projects.  
 
-I also love working with different technologies &amp; platforms and my current favorite ones are  
+I also love working with different technologies platforms and my current favorite ones are  
 ❤️ SQL / PostgreSQL / MySQL 
 
 ❤️ Python 
